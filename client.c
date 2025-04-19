@@ -7,7 +7,7 @@
 #include <arpa/inet.h>   
 
 #define PORT 12345 
-#define SERVER_IP "192.168.56.101" 
+#define SERVER_IP "10.0.2.15" 
 
 int main() {
     int sock = 0;
